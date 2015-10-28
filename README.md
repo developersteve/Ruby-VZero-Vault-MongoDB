@@ -1,6 +1,6 @@
 # Vault Ruby demo using Sinatra and MongoDB
 
-This is a reall basic example of the Braintree Vault in Sinatra using MongoDB to create a customer profile. Creates a customer and attaches a payment method, being stored in the Braintree Vault with the token being stored against the MongoDB profile. 
+This is a real basic example of the Braintree Vault in Sinatra using MongoDB to create a customer profile. Creates a customer and attaches a payment method, being stored in the Braintree Vault with the token being stored against the MongoDB profile. 
 
 Once stored a token is returned that can be stored and transacted against as needed. 
 
